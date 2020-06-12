@@ -1,0 +1,7 @@
+
+[dev-packages]
+rope = "*"
+
+[packages]
+dateparser = "*"
+peewee = "*"
